@@ -1,6 +1,6 @@
 Body {
   background-color: #0f49;
-  color: #0f59
+  color: #0f49
   font-family: Courier New, Lucida Console, Monospace;
   margin: 12% 20%;
 }
@@ -8,8 +8,8 @@ Body {
  .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 2px solid 74992e;
-  border-bottom: 2px solid #74992e;
+  border-top: 1px solid 74992e;
+  border-bottom: 1px solid #74992e;
   
 }
 
