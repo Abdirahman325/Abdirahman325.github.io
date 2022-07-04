@@ -33,12 +33,11 @@ a:hover {
   text-decoration: underline;
 }
 
-.container {
-  max-width: 960px;
-  margin: 40px auto;
-  padding: 32px;
-  background: orange;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+Body {
+  background-color: #92a8d1;
+  font-family: Courier New, Lucida Console, Monospace;
+  margin: 12% 20%;
+  margin left:245px;
 }
 
 section {
@@ -129,8 +128,8 @@ section:last-child {
 }
 
 .interests-container img {
-  height: 35px;
-  opacity: 0.75;
+  height: 60px;
+  width: 60px;
 }
   section {
     grid-template-columns: 1fr;
@@ -154,25 +153,3 @@ section:last-child {
     margin-bottom: 16px;
   }
 }
-.sidebar div {
-padding: 8px;
-font-size: 24px;
-display: block;
-}
-
-img{
-  position: relative;
-  top: -38px
-  
-}
-img{
-  width: 100% 
-}
-img{
-  height: 200px
-}
-
-img{
-  border-radius: 100%
-}
-
